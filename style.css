@@ -1,0 +1,37 @@
+body {
+  font-family: verdana, sans-serif;
+  font-size: 14px;
+   }
+
+  .navbar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background:#0C0DF0;
+    border-radius: 5px;
+    overflow: auto;
+    width:100%;
+    height:80px;
+  }
+  .navbar li{
+    float:left;
+
+  }
+  .logo1{
+    border: 20px solid rgb(42, 42, 77);
+
+  }
+  .navbar li a{
+    display: block;
+    color:#F5D026;
+    text-decoration: none;
+    padding:15px 20px;
+  }
+  .navbar li a.active {
+  background-color: black;
+  }
+  .navbar li a:hover{
+    background-color: #446190;
+    color:#232376;
+
+  }

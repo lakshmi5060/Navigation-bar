@@ -17,7 +17,7 @@ body {
     float:left;
 
   }
-  .logo1{
+  .logo1:hover{
     border: 20px solid rgb(42, 42, 77);
 
   }
@@ -27,7 +27,7 @@ body {
     text-decoration: none;
     padding:15px 20px;
   }
-  .navbar li a.active {
+  .navbar li a.hover{
   background-color: black;
   }
   .navbar li a:hover{

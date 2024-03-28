@@ -27,6 +27,9 @@ body {
     text-decoration: none;
     padding:15px 20px;
   }
+  .navbar .active{
+  background-color: black;
+  }
   .navbar li a.hover{
   background-color: black;
   }
